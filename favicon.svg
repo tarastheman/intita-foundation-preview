@@ -1,37 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="48.15 67.96 584.40 584.40" role="img" aria-label="INTITA Foundation"><rect x="48.15" y="67.96" width="584.40" height="584.40" fill="#4B75A4"/>
-
-<g id="&#208;&#187;&#208;&#190;&#208;&#179;&#208;&#190;&#209;&#130;&#208;&#184;&#208;&#191;">
-
-<g id="Group 1321316224">
-<g id="Group 1321316212">
-<g id="Frame 1321316186">
-<g id="&#208;&#168;&#208;&#176;&#209;&#128; 8">
-<g id="&#60;Group&#62;">
-<g id="&#60;Group&#62;_2">
-<path id="&#60;Path&#62;" d="M536.931 314.116H525.266L487.345 415.058H499.009L536.931 314.116Z" fill="#FFFFFF"/>
-</g>
-<g id="&#60;Group&#62;_3">
-<path id="&#60;Path&#62;_2" d="M542.241 400.45L590.942 368.47L542.241 332.055V317.656L600.682 363.096V375.043L542.241 415.057V400.45Z" fill="#FFFFFF"/>
-</g>
-<path id="&#60;Compound Path&#62;" fill-rule="evenodd" clip-rule="evenodd" d="M239.293 325.735V415.057H227.587V325.735H200.659L202.811 315H268.006L265.592 325.735H239.293ZM167.693 415.057L128.219 328.809C130.634 357.42 129.846 386.342 129.846 415.057H116.671V315H137.458L177.195 401.403C174.465 373.47 175.725 343.193 175.725 315H188.9V415.057H167.693ZM459.551 381.392H427.845V380.818C425.063 390.616 422.176 400.726 418.082 415.057H403.909L434.302 315H453.567L483.802 415.057H469.104C464.747 399.579 462.07 390.147 459.551 381.392ZM431.047 369.562H456.191C453.304 359.348 449.787 347.049 443.646 325.474C437.976 345.329 434.302 358.149 431.047 369.562ZM80.0312 415.057V315H91.8945V415.057H80.0312Z" fill="#FFFFFF"/>
-<path id="Subtract" d="M384.176 277.812C390.268 277.812 395.257 282.828 395.257 288.889V431.431C395.257 437.492 390.268 442.508 384.176 442.508H292.166C286.022 442.508 281.032 437.492 281.032 431.431V288.889C281.032 282.828 286.022 277.812 292.166 277.812H384.176ZM295.2 415.06H308.101V315.002H295.2V415.06ZM319.847 325.738H346.747V415.06H359.542V325.738H385.762L388.174 315.002H321.996L319.847 325.738Z" fill="#FFFFFF"/>
-</g>
-</g>
-
-</g>
-<path id="Subtract_2" d="M600.239 242.392H540.371L373.018 149.242L237.543 242.392H80.0303L339.913 97.1763L600.239 242.392Z" fill="url(#vmono_white_g0)"/>
-<g transform="translate(0 -95.629)"><path id="Subtract_3" d="M80.4716 573.557H140.34L307.693 666.707L443.168 573.557H600.681L340.797 718.773L80.4716 573.557Z" fill="url(#vmono_white_g1)"/></g>
-</g>
-</g>
-</g>
-<defs>
-<linearGradient id="vmono_white_g0" x1="240.742" y1="242.392" x2="589.614" y2="242.392" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFFFFF"/>
-<stop offset="1" stop-color="#FFFFFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2.53 70.15 675.64 675.64" role="img" aria-label="INTITA Foundation"><defs>
+<linearGradient id="vmain_g0" x1="240.742" y1="242.392" x2="589.614" y2="242.392" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4B75A4"/>
+<stop offset="1" stop-color="#5B5B5B"/>
 </linearGradient>
-<linearGradient id="vmono_white_g1" x1="439.969" y1="573.557" x2="91.0971" y2="573.557" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFFFFF"/>
-<stop offset="1" stop-color="#FFFFFF"/>
+<linearGradient id="vmain_g1" x1="439.969" y1="573.557" x2="91.0971" y2="573.557" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4B75A4"/>
+<stop offset="1" stop-color="#5B5B5B"/>
 </linearGradient>
-</defs>
-</svg>
+</defs><path d="M600.239 242.392H540.371L373.018 149.242L237.543 242.392H80.0303L339.913 97.1763L600.239 242.392Z" fill="url(#vmain_g0)"/><path d="M80.4716 573.557H140.34L307.693 666.707L443.168 573.557H600.681L340.797 718.773L80.4716 573.557Z" fill="url(#vmain_g1)"/></svg>
