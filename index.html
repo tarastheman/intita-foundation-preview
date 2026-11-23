@@ -369,7 +369,8 @@ dialog.nd .pp-body p{margin-top:10px}
 @container site (max-width:999px){.mem .role i{display:none}.mem .role .org{display:block}}
 .mem .mx{display:none}
 .mem.has-more{--r:4;cursor:pointer;outline-offset:6px}
-.mem.has-more .mx{display:grid;gap:8px;align-content:start;opacity:0;pointer-events:none;transition:opacity .3s,transform .35s;font-size:14px;line-height:1.45;color:#3E4652}
+.mem.has-more .mx{display:grid;gap:8px;align-content:start;opacity:0;pointer-events:none;transition:opacity .2s,transform 0s linear .2s;font-size:14px;line-height:1.45;color:#3E4652}
+@container site (min-width:480px){.mem.has-more:hover .mx,.mem.has-more:focus-within .mx,.mem.has-more.open .mx{transition:opacity .3s .12s,transform 0s}}
 .mem.has-more .pic,.mem.has-more h3,.mem.has-more > p{transition:transform .35s}
 .mem.has-more .pic{transform-origin:0 0}
 .mem .mx .soc2{display:flex;gap:8px}
