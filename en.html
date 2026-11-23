@@ -101,7 +101,10 @@ body.mode-phone .site{max-width:390px;margin:24px auto 120px;box-shadow:0 10px 6
 .btn-row .btn{flex:1 1 240px}
 @container site (min-width:600px){.btn-row .btn{flex:0 0 auto}}
 .card{position:relative;background:#fff;min-width:0}
-.card::before{content:"";position:absolute;left:0;top:0;width:44px;height:4px;background:var(--orange)}
+.card::before{content:"";position:absolute;left:0;top:0;z-index:2;width:44px;height:4px;background:var(--orange);transition:width .45s cubic-bezier(.2,.7,.2,1)}
+@media (hover:hover){.card.fact:hover::before,.card.news:hover::before,.card.rep:hover::before{width:100%}}
+.card.news:focus-within::before,.card.rep:focus-visible::before,.card.rep:focus-within::before{width:100%}
+@media (prefers-reduced-motion:reduce){.card::before{transition:none}}
 .dark .card{background:linear-gradient(160deg,rgba(255,255,255,.09),rgba(255,255,255,.03))}
 .ic{width:48px;height:48px;background:var(--mist);color:var(--blue-d);display:grid;place-items:center}
 .ic svg{width:24px;height:24px}
